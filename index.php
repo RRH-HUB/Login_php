@@ -5,7 +5,7 @@
 
     <ul>
         <li><a href="login.php">Login</a></li>
-        <li><a href="singup.php">SignUp</a></li>
+        <li><a href="signup.php">SignUp</a></li>
         <li><a href="../logout.php">LogOut</a></li>
     </ul>
 
