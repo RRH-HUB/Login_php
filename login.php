@@ -1,9 +1,10 @@
 <?php include("includes/header.php") ?>
 <?php include("includes/footer.php") ?>
+<div class="card col-md-4"></div>
 <h1>Login</h1>
-<form action = "controller/loginController.php" method = "POST">
+<form class="form-group" action = "controller/loginController.php" method = "POST">
     <input type = "text" name = "username" placeholder = "Username...">
     <input type = "password" name = "password" placeholder = "password..">
-    <input type = "submit" name = "login">
+    <input class="btn btn-dark btn-lg" type = "submit" name = "login">
 </form>
-
+</div>
